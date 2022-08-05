@@ -85,7 +85,7 @@ section {
 }
 .answer p {
   color: white;
-  font-size: clamp(0.7rem, 0.7rem + 1vw, 0.75rem);
+  font-size: clamp(0.7rem, 0.7rem + 1vw, 0.79rem);
   padding: 2rem;
 }
 .accordion-item:target .answer {
