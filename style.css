@@ -88,6 +88,11 @@ section {
   font-size: clamp(0.7rem, 0.7rem + 1vw, 0.79rem);
   padding: 2rem;
 }
+.answer ul {
+  color: white;
+  font-size: clamp(0.7rem, 0.7rem + 1vw, 0.79rem);
+  padding: 2rem;
+}
 .accordion-item:target .answer {
   max-height: 20rem;
 }
